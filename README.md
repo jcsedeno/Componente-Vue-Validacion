@@ -1,3 +1,7 @@
+Practica de Mini test en Vue
+
+
+
 # componente-vue-validacion
 
 ## Project setup
